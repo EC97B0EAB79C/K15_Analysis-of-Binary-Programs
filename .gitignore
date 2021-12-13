@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#Program that need further inspection
+./K15-Disassembler/*
+./K15-Instruction_Counter/*
+./K15-obfuscator/*
+./K15-SigBasedAM/*
+./K15-StaticTest/*
+./K15-UPX_Detector/*
+
 # User-specific files
 *.rsuser
 *.suo

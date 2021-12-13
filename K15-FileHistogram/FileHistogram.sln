@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FileHistogram", "FileHistogram\FileHistogram.pyproj", "{806E2F97-CF3D-4B96-A3F7-AB913A16F33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806E2F97-CF3D-4B96-A3F7-AB913A16F33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806E2F97-CF3D-4B96-A3F7-AB913A16F33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACEA16E-F7AC-4073-9D52-00B6DE8D0444}
+	EndGlobalSection
+EndGlobal
