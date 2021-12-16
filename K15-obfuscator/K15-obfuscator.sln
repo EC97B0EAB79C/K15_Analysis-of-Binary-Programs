@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "K15-obfuscator", "K15-obfuscator\K15-obfuscator.pyproj", "{F222C257-0926-48A2-B66C-FD482CA1127F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F222C257-0926-48A2-B66C-FD482CA1127F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F222C257-0926-48A2-B66C-FD482CA1127F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3815D765-F3AB-4434-877C-5F5FA2AF5BD1}
+	EndGlobalSection
+EndGlobal
