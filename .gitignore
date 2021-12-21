@@ -5,13 +5,14 @@
 
 #Program that need further inspection
 K15-Disassembler/
-K15-SigBasedAM/
 K15-StaticTest/
 K15-UPX_Detector/
 
 #file used to test
 result.c
 test1.c
+*.hdb
+*.ndb
 
 # User-specific files
 *.rsuser
